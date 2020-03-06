@@ -1,4 +1,4 @@
-# funnymoney
+# FunnyMoney Tracker
 
 ## Project setup
 ```
